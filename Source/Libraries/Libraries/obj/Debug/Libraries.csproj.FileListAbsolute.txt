@@ -1,0 +1,14 @@
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\bin\Debug\Libraries.exe.config
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\bin\Debug\Libraries.exe
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\bin\Debug\Libraries.pdb
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\bin\Debug\EntityFramework.dll
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\bin\Debug\EntityFramework.xml
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\obj\Debug\Libraries.csprojAssemblyReference.cache
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\obj\Debug\Libraries.GUI.FormInfo.resources
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\obj\Debug\Libraries.GUI.FormMain.resources
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\obj\Debug\Libraries.Properties.Resources.resources
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\obj\Debug\Libraries.csproj.GenerateResource.cache
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\obj\Debug\Libraries.csproj.CoreCompileInputs.cache
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\obj\Debug\Libraries.csproj.CopyComplete
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\obj\Debug\Libraries.exe
+E:\wf\QLTV\1612647\Source\Libraries\Libraries\obj\Debug\Libraries.pdb
